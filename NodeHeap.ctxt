@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NodeHeap()
+comment1.params=value
+comment1.target=void\ add(java.lang.Comparable)
+comment2.params=n
+comment2.target=void\ shiftUp(Node)
+comment3.params=n1\ n2
+comment3.target=void\ swapValues(Node,\ Node)
+comment4.params=
+comment4.target=java.lang.Comparable\ remove()
+comment5.params=value
+comment5.target=void\ shiftDown(Node)
+comment6.params=
+comment6.target=java.lang.Comparable[]\ toArray()
+comment7.params=array
+comment7.target=void\ fromArray(java.lang.Comparable[])
+comment8.params=
+comment8.target=java.lang.Comparable[]\ getSortedContents()
+comment9.params=array\ end
+comment9.target=void\ shiftDown(java.lang.Comparable[],\ int)
+numComments=10

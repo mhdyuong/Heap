@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=void\ add(java.lang.Comparable)
+comment1.params=
+comment1.target=java.lang.Comparable[]\ toArray()
+comment2.params=
+comment2.target=java.lang.Comparable\ remove()
+comment3.params=array
+comment3.target=void\ fromArray(java.lang.Comparable[])
+comment4.params=
+comment4.target=java.lang.Comparable[]\ getSortedContents()
+numComments=5

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=left\ right\ parent\ data
+comment0.target=Node(Node,\ Node,\ Node,\ java.lang.Comparable)
+comment1.params=n
+comment1.target=void\ setLeftChild(Node)
+comment2.params=
+comment2.target=Node\ getLeftChild()
+comment3.params=n
+comment3.target=void\ setRightChild(Node)
+comment4.params=
+comment4.target=Node\ getRightChild()
+comment5.params=
+comment5.target=Node\ getParent()
+comment6.params=n
+comment6.target=void\ setParent(Node)
+comment7.params=
+comment7.target=java.lang.Comparable\ getData()
+comment8.params=data
+comment8.target=void\ setData(java.lang.Comparable)
+numComments=9
